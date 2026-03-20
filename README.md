@@ -1,4 +1,4 @@
-# Saudi Legal AI API — v3.0
+# Saudi Legal AI
 
 An AI-powered REST API for querying Saudi Arabian legal regulations and systems, built on Retrieval-Augmented Generation (RAG) with multi-model fallback support.
 
